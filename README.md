@@ -1,2 +1,5 @@
 # Todo App
-# MERN Todo App  A full-stack Todo application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Users can create, view, update, complete, and delete tasks. This project is built to practice CRUD operations, REST APIs, React state management, MongoDB, and frontend-backend integration.  ## Features  * Create new tasks * View all tasks * Edit tasks * Mark tasks as completed * Delete tasks * * REST API integration  ## Tech Stack  * React.js * Node.js * Express.js * MongoDB * Mongoose * Axios * Tailwind CSS  
+# MERN Todo App  A full-stack Todo application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+# Users can create, view, update, complete, and delete tasks. This project is built to practice CRUD operations, REST APIs, React state management, MongoDB, and frontend-backend integration.  
+## Features  * Create new tasks * View all tasks * Edit tasks * Mark tasks as completed * Delete tasks * * REST API integration 
+## Tech Stack  * React.js * Node.js * Express.js * MongoDB * Mongoose * Axios * Tailwind CSS  
